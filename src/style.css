@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */   
+}
+
+button {
+
+    background-color: #;
+	margin: 6px;
+	font-family: 'Raleway',arial, sans-serif;
+	font-weight: normal;
+	border: 1px solid #cccccc;
+    border-radius: 0px;
+    text-align: center;
+    font-size: ;
+    padding: ;
+    width: ;
+}
